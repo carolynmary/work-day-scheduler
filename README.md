@@ -1,12 +1,12 @@
 # work-day-scheduler
 
 LIVE SITE:
-<!-- https://carolynstolze.github.io/work-day-scheduler.github.io/  -->
+https://carolynstolze.github.io/work-day-scheduler.github.io/
 
 GITHUB REPOSITORY:
 https://github.com/carolynstolze/work-day-scheduler
 
-![scheduler landing page](./Assets/.....)
+![scheduler landing page](Assets/05-third-party-apis-homework-demo.gif)
 
 
 - - -
@@ -21,3 +21,6 @@ https://github.com/carolynstolze/work-day-scheduler
 ## commit 1
 - initial push: files copied from homework assignment. No code added.
 
+## commit 2
+- fully working code
+    - new jQuery script.js file
