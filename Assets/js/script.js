@@ -1,3 +1,5 @@
+// CALENDAR APP
+
 $(document).ready(function () {
     // add current day and date with moments to #currentDay
     $("#currentDay").text(moment().format('LLLL'));
@@ -39,7 +41,10 @@ $(document).ready(function () {
                 $(this).children("textarea").addClass("future");
             }
         });
-        setInterval(rowColor, 60000) // auto run every minute 
     };
     rowColor();
+
+    // var autoRun = setInterval(rowColor, 30000) // auto run every 30 sec 
+    // var interval = setInterval(hourUpdater, 15000);
+    // autoRun ()
 });
